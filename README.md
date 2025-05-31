@@ -53,7 +53,7 @@
 
 ## 🚀 Proyectos en curso
 
-- 📊 Desarrollo de un software educativo para el manejo de reportes financieros
+- 📊 Desarrollo de un software educativo para el manejo de pensionados de la Universidad del Cauca
 - 🧾 Aplicación web para la gestión de formatos académicos en la Universidad del Cauca
 - 🧱 Exploración de arquitecturas limpias y pruebas automatizadas
 
